@@ -1,15 +1,15 @@
-# <img src="./assets/profile-banner.svg" alt="Syaz banner" width="100%" />
+# <img src="./assets/profile-banner.svg" alt="Muhammad Raja Daffa banner" width="100%" />
 
 <!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder |
+  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
 </p>
 
 <p align="center">
   <a href="https://rzadaffa.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.tiktok.com/@danialsyz?_r=1&_t=ZS-98oEcNtNLE5"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:gamingboost949@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+  <a href="https://www.tiktok.com/@rzadaffa_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:muhammadrajadaffa@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
 </p>
 
 ## Tech Stack
@@ -20,21 +20,48 @@
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="./assets/filament-badge.svg" alt="Filament" />
+  <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Pinia-111827?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/draw.io-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="draw.io" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=22C55E" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/k6-111827?style=for-the-badge&logo=k6&logoColor=7D64FF" alt="k6" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
 </p>
 
+### Minecraft Server Development
+
+<p align="center">
+  <img src="./assets/minecraft-server-badge.svg" alt="Minecraft Server Administration" />
+  <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
+  <img src="./assets/plugin-configuration-badge.svg" alt="Plugin Configuration" />
+  <img src="https://img.shields.io/badge/Server_Customization-111827?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
+  <img src="https://img.shields.io/badge/YAML-111827?style=for-the-badge&logo=yaml&logoColor=FF6B6B" alt="YAML" />
+  <img src="https://img.shields.io/badge/Skript-111827?style=for-the-badge&logo=script&logoColor=67E8F9" alt="Skript" />
+  <img src="https://img.shields.io/badge/Spigot-111827?style=for-the-badge&logo=spigotmc&logoColor=F4A261" alt="Spigot" />
+  <img src="./assets/papermc-badge.svg" alt="PaperMC" />
+</p>
 
 ## Currently Building
 
 Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
 
+## Cybersecurity Fundamentals
+
+<p align="center">
+  🐉 Kali Linux | 🌐 Network Security | 📶 Wireless Security | 🔍 Vulnerability Assessment | 📡 Network Monitoring
+</p>
 
 ## GitHub Statistics
 
