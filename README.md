@@ -1,4 +1,4 @@
-# <img src="./assets/profile-banner.svg" alt="Syaz banner" width="100%" />
+# <img src=" assets/profile-banner.svg" alt="Syaz banner" width="100%" />
 
 <!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
