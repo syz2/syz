@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://rzadaffa.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
-  <a href="[https://www.tiktok.com/@danialsyz?_r=1&_t=ZS-98oEcNtNLE5]><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.tiktok.com/@danialsyz?_r=1&_t=ZS-98oEcNtNLE5"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
   <a href="mailto:gamingboost949@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
 </p>
 
